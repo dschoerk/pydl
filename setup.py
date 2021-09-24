@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pydl-dschoerk",
-    version="0.0.1",
+    version="0.0.2",
     author="Dominik Schörkhuber",
     author_email="dschoerk@gmx.at",
     description="Simple file downloader",
