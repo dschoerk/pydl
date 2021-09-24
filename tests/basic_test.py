@@ -1,6 +1,6 @@
 import unittest
 from pathlib import Path
-import pydl
+import src as pydl
 
 class Testcases(unittest.TestCase):
 
